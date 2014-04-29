@@ -1,0 +1,24 @@
+body
+{background-image:url(Programming.jpg);}
+
+#container{width:1300px;}
+
+#header{color:white;
+text-align:center;opacity:.9;width:75.71em;}
+
+h1
+{margin-bottom:0;}
+
+#menu
+{background-color:black;height:500px;width:115px;
+float:left;opacity:.9;color:white;border-style:double;
+border-color:white;}
+
+#menulinks a:link{text-decoration:none;background-color:white;}
+
+#content
+{background-image:Programming.jpg;height:500px;width:500px;
+float:left;text-indent:20px;color:#B8EDEC;opacity:.95}
+
+#footer
+{background-image:programming.jpg;clear:both;text-align:center;color:green;}
